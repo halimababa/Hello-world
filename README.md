@@ -1,3 +1,2 @@
 # Hello-world
-Practicals
-hey
+print(“Hello world”)
